@@ -1,4 +1,4 @@
-package com.atguigu08.constructor;
+package constructor;
 
 /*
 练习 1：编写两个类，TriAngle 和 TriAngleTest，其中 TriAngle 类中声明私有的
@@ -26,6 +26,9 @@ public class TriAngle {
         return height;
     }
 
+    public TriAngle() {
+
+    }
     //构造器
     public TriAngle(double base, double height) {
         this.base = base;

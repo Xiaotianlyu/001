@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/001.iml" filepath="$PROJECT_DIR$/.idea/001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/Javacode.iml" filepath="$PROJECT_DIR$/Javacode/Javacode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/chapter01/chapter01.iml" filepath="$PROJECT_DIR$/Javacode/chapter01/chapter01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/Javacode/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/Javacode/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/chapter05/chapter05.iml" filepath="$PROJECT_DIR$/Javacode/chapter05/chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javacode/chapter06/chapter06.iml" filepath="$PROJECT_DIR$/Javacode/chapter06/chapter06.iml" />
+    </modules>
+  </component>
+</project>
